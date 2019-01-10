@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,600');
+@import url('https://use.fontawesome.com/releases/v5.3.1/css/all.css');
+
+
+/* body styling */
+
+body {
+	background-color: white;
+	font-family: Nunito !important;
+	padding-bottom: 0px !important;
+	overflow-x: hidden;
+}
+
+a {
+	color: #076440 !important;
+}
+
+a.btn-primary {
+	color: white !important;
+}
+
+li.page a {
+	color: white !important;
+}
+
+/* footer styling */
+footer {
+	background-color: black !important;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+.container footer {
+	margin-left: -25% !important;
+    padding-left: 25% !important;
+    padding-right: 25% !important;
+    margin-right: -25% !important;
+}
+
+footer a {
+	color: white !important;
+}
+
+.style-1-gradient .row .span12 p {
+	text-align: center;
+}
+	
+div.style-1-gradient {
+	background-color: black !important;
+}
+
+footer .row.style-1-gradient {
+	width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    padding-bottom: 12px;
+}
+
+/* breadcrumb styling */ 
+div.breadcrumbs {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	visibility: hidden;
+}
+
+div.breadcrumbs a {
+	visibility: visible;
+}
+
+div.breadcrumbs a+a::before {
+    padding: 8px;
+    color: black;
+    content: "/\00a0";
+}
+
+div.breadcrumbs span {
+	visibility: visible;
+}
+
+div.breadcrumbs span::before {
+	padding: 8px;
+    color: black;
+    content: "/\00a0";
+}
+
+/* navbar styling */
+.navbar-inverse {
+	background-color: #076440 !important;
+	height: 80px;
+}
+
+.navbar-nav li.dropdown {
+	display: none;
+}
+
+.nav-collapse.collapse nav ul, .nav-collapse.collapse a {
+	display: none;
+}
+
+.container a.gdstext2, .navbar-nav a.gdstext {
+	visibility: hidden !important;
+	color: white !important;
+	font-size: 16px !important;
+	font-family: Nunito !important;
+}
+
+.container a.gdstext2 {
+	margin-top: 25px;
+}
+
+.container a.gdslogo2 {
+	margin-top: 25px;
+}
+
+.gdstext2:before, .gdstext:before {
+	content: "Subscribe for updates";
+    visibility: visible;
+    position: absolute;
+    content: "Subscribe for updates";
+}
+
+#top-header {
+	display: none;
+}
+
+div.navbar-inner {
+	background-image: none !important;
+	background-color: transparent !important;
+	border: 0px;
+}
+
+.navbar .navbar-brand, .navbar-inner .container .brand {
+	vertical-align: middle;
+    color: white !important;
+	text-decoration: none;
+    display: inline-block !important;
+    font-family: Nunito;
+    font-weight: bold !important;
+    font-size: 1em !important;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    position: relative;
+    align-self: center;
+    padding-top: 12px !important;
+}
+
+@media only screen and (min-width: 600px) {
+	a.navbar-brand::before, a.brand::before {
+		content: "Warwickshire County Council";
+	}
+	
+	.navbar-brand img, .brand img {
+		border-right: solid white 1.5px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	a.navbar-brand, a.brand {
+		margin-left: 0px !important;
+	}
+}
+
+ul.navbar-nav {
+	margin-top: 25px;
+}
+
+button.navbar-toggle {
+	display: none;
+}
+
+.navbar-brand img, .brand img {
+	content:url("https://warwickshire.github.io/logo.png");
+	height: 50px;
+	width: auto !important;
+    padding-right: 15px;
+    vertical-align: middle;
+    float: left;
+    display: inline-block;
+    margin-top: -12px;
+    margin-right: 10px !important;
+}
+
+#site-search.navbar-form input[type="text"] {
+	font-family: Nunito;
+	font-weight: 600;
+	color: #555555;
+	width: 100% !important;
+	height: 35px !important;
+	border-radius: 0px;
+	margin-top: 10px !important;
+}
+
+#site-search .searchbutton {
+	display: none;
+}
