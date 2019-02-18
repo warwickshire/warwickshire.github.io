@@ -322,6 +322,35 @@ button#show-menu-button svg {
 	fill: white;
 }
 
+table, tbody, tr, td {
+	display: block;
+}
+
+@media only screen and (max-width: 600px) {
+	div#wr_outer {
+		margin-top: 60px;
+	}
+	
+	table, tbody, tr, td {
+		display: block;
+	}
+	input.wr_lginp {
+		width: auto;
+	}
+	
+	tbody tr td div#wr_srch_outer div#wr_srch_title {
+		width: 100%
+	}
+	
+	div div#wr_srch_outer div#wr_srch_keywords {
+		width: 100%;
+	}
+	
+	tbody tr td div#wr_srch_outer div {
+		width: 100%;
+	}
+}
+
 @media only screen and (max-width: 1025px) {
 	tr td div#wr_srch_outer div {
 		width: 48%
@@ -440,4 +469,26 @@ ul#menu {
 	background-color: #0F4880;
 	border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
+}
+
+tr.wr_user_row td.breadcrumbs span.wr_username {
+	float: none;
+}
+
+tr.wr_user_row td.breadcrumbs span.lnk {
+	float: none;
+	right: 20px;
+	position: absolute;
+}
+
+table.wr_stackable_buttons tbody tr td {
+	display: table-cell
+}
+
+table.sect_header tr {
+	display: table-row
+}
+
+tbody tr.wr_user_row {
+	height: auto;
 }
