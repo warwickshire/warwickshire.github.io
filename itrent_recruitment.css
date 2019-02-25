@@ -488,48 +488,11 @@ tbody tr.wr_user_row {
 	height: auto;
 }
 
-/* Application form styling */
-
 td.job_title {
 	font-weight: 600;
 	font-size: 1.6em;
 }
 
-table#iconGuide tbody tr {
-	display: block;
-}
-
-table#iconGuide tbody tr td table tbody tr td {
-	display: inline-block;
-}
-
-table#appPages tbody tr td {
-	display: inline-block;
-}
-
-table#application_summary tbody tr td table {
-	display: table;
-}
-
-table#application_summary tbody tr td table tbody {
-	display: table-row-group;
-}
-
-table#wr_other tbody tr td {
-	display: inline-block;
-}
-
-table#job_details {
-	display: table;
-}
-
-table#job_details tbody {
-	display: table-row-group;
-}
-
-table#job_details tbody tr {
-	display: table-row;
-}
-table#job_details tbody tr td {
-	display: table-cell;
+td.wr_pad.job_right p {
+	overflow-wrap: break-word;
 }
