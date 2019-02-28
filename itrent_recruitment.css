@@ -454,7 +454,7 @@ td div[id^=wr_sect_header] {
 	border: none !important;
 }
 
-.page_header.application-form tbody tr:nth-child(3) {
+div#wr_content > div > .page_header.application-form > tbody > tr:nth-child(3) {
 	display: none !important;
 }
 
@@ -495,4 +495,12 @@ td.job_title {
 
 td.wr_pad.job_right p {
 	overflow-wrap: break-word;
+}
+
+#searchTable tbody tr td table.sect_header tbody tr:nth-child(1) {
+	display: table-row;
+}
+
+table.newmultipleTables tr td {
+	vertical-align: middle
 }
