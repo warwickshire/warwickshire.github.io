@@ -459,6 +459,10 @@ div#wr_content > div > .page_header.application-form > tbody > tr:nth-child(3) {
 	display: none !important;
 }
 
+div#fixednavigation ul#menu {
+	overflow: visible;
+}
+
 ul#menu {
 	overflow: hidden;
 	margin-bottom: 20px;
@@ -510,4 +514,8 @@ td.wr_subscribe_bottom input#wr_gen_alert {
 
 span.lnk a#log-out {
 	float: right;
+}
+
+div.job-search-summary {
+	display: block;
 }
