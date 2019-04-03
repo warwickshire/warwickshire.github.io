@@ -504,7 +504,7 @@ table.newmultipleTables tr td {
 	vertical-align: middle
 }
 
-td#wr_subscribe_bottom input#wr_gen_alert {
+td.wr_subscribe_bottom input#wr_gen_alert {
 	color: white !important;
 }
 
