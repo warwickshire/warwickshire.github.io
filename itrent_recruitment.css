@@ -193,6 +193,7 @@ td.breadcrumbs {
 	border-left: none !important;
 	border-right: none !important;
 	border-bottom: 15px solid white !important;
+	position: relative;
 }
 
 div#wr_content table:first-of-type {
@@ -472,8 +473,6 @@ tr.wr_user_row td.breadcrumbs span.wr_username {
 
 tr.wr_user_row td.breadcrumbs span.lnk {
 	float: none;
-	right: 20px;
-	position: absolute;
 }
 
 table.wr_stackable_buttons tbody tr td {
@@ -503,4 +502,12 @@ td.wr_pad.job_right p {
 
 table.newmultipleTables tr td {
 	vertical-align: middle
+}
+
+td#wr_subscribe_bottom input#wr_gen_alert {
+	color: white !important;
+}
+
+span.lnk a#log-out {
+	float: right;
 }
