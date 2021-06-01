@@ -519,3 +519,19 @@ span.lnk a#log-out {
 div.job-search-summary {
 	display: block;
 }
+
+/*Additional styling*/
+div#wr_navigation div#fixednavigation {
+    padding-top: 20px;
+     padding-bottom: 0em;
+    margin-top: 3em;
+}
+
+div#wr_navigation {
+    margin-left: 0%;
+}
+
+.use-hamburger #fixednavigation ul {
+    background: #275b8d;
+}
+
