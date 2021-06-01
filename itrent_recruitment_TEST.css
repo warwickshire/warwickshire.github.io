@@ -535,3 +535,55 @@ div#wr_navigation {
     background: #275b8d;
 }
 
+/* ///////////// */
+
+@media(min-width:1025px){
+    body.vertical .mi-search,#wr_navigation:not(.use-hamburger) #fixednavigation a.job-search-link.outer,#wr_navigation-v-small:not(.use-hamburger) #fixednavigation-v-small a.job-search-link.outer{
+        display:none
+    }
+    body.horizontal #log-out-list-item{
+        flex-grow:1;
+        -webkit-flex-grow:1;
+        text-align:right
+    }
+    body.horizontal #log-out-in-menu{
+        display:inline
+    }
+    .label{
+        padding-right:14px
+    }
+    .sendtofriend .data input{
+        width:285px
+    }
+    .app-details-information-table th.label{
+        padding-right:.6em;
+        vertical-align:top
+    }
+    .ctxt-menu-btns{
+        display:none
+    }
+    .context-menu-row td{
+        vertical-align:middle
+    }
+    #apply-job-buttons-row input[name^='BU_APPLY']{
+        margin-right:10px
+    }
+    .app-summary-col1{
+        padding-right:5px
+    }
+    .app-summary-section input.standard_bu{
+        max-width:230px
+    }
+    body.horizontal #menu li{
+        display:inline-block;
+        padding-top:4px;
+        padding-bottom:4px
+    }
+    .sect_header td[has-file-input].data{
+        position:relative;
+        top:-5px
+    }
+    #part_vac_ed{
+        width:25%
+    }
+}
