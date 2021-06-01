@@ -596,3 +596,13 @@ div#fixednavigation {
         width:25%
     }
 }
+
+/* //////////////// */
+div#wr_navigation {
+    background: #0f4880!important;
+}
+
+
+div#fixednavigation {
+    background: #0f4880!important;
+}
