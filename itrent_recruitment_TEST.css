@@ -607,6 +607,12 @@ div#fixednavigation {
     background: #0f4880!important;
 }
 
+@media only screen and (max-width: 600px){
+div#wr_navigation div#fixednavigation {
+    padding-top: 0px;
+	}
+}
+
 /* Page width issues fixes */
 @media only screen and (max-width: 600px){
 div#wr_outer {
