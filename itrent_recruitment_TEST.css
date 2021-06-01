@@ -610,6 +610,7 @@ div#fixednavigation {
 @media only screen and (max-width: 600px){
 div#wr_navigation div#fixednavigation {
     padding-top: 0px;
+    margin-top: 50px;
 	}
 }
 
