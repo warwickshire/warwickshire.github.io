@@ -534,6 +534,15 @@ div#wr_navigation {
 .use-hamburger #fixednavigation ul {
     background: #275b8d;
 }
+div#wr_navigation {
+    background: #0f4880!important;
+}
+
+
+div#fixednavigation {
+    background: #0f4880!important;
+}
+
 
 /* ///////////// */
 
