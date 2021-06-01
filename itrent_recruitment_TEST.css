@@ -606,3 +606,18 @@ div#wr_navigation {
 div#fixednavigation {
     background: #0f4880!important;
 }
+
+/* Page width issues fixes */
+@media only screen and (max-width: 600px){
+div#wr_outer {
+    margin-top: 60px;
+    margin-left: 0px;
+    max-width: 100%;
+}
+}
+
+@media only screen and (max-width: 600px){
+table, tbody, tr, td {
+    display: revert;
+}
+}
