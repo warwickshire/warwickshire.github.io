@@ -234,6 +234,8 @@ table.page_header.res_page_header tr:not(:nth-child(2)) {
 	padding: 1.25rem;
 	width: 100%;
 	border: none !important;
+	padding-left: 0em;
+	padding-right: 0em;
 }
 
 #messageDiv img {
