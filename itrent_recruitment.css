@@ -483,9 +483,9 @@ table.wr_stackable_buttons tbody tr td {
 	display: table-cell
 }
 
-table.sect_header tr {
+/* table.sect_header tr {
 	display: table-row
-}
+} */
 
 tbody tr.wr_user_row {
 	height: auto;
