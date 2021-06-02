@@ -545,3 +545,7 @@ table, tbody, tr, td {
     display: revert;
 }
 }
+
+body.s3 {
+    overflow-x: hidden;
+}
