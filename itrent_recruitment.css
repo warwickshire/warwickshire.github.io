@@ -519,3 +519,29 @@ span.lnk a#log-out {
 div.job-search-summary {
 	display: block;
 }
+/* Page width issues fixes */
+#wr_outer {
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+@media only screen and (max-width: 600px){
+div#wr_outer {
+    margin-top: 60px;
+    margin-left: 0px;
+    max-width: 100%;
+}
+}
+
+@media (max-width:960px) {
+#wr_outer {
+padding-left: 3%;
+padding-right:3%;
+}
+}
+
+@media only screen and (max-width: 600px){
+table, tbody, tr, td {
+    display: revert;
+}
+}
