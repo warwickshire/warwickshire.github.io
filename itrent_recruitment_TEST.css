@@ -522,9 +522,10 @@ div.job-search-summary {
 
 /*Additional styling*/
 div#wr_navigation div#fixednavigation {
-    padding-top: 20px;
-     padding-bottom: 0em;
-    margin-top: 3em;
+   padding-top: 20px;
+   padding-bottom: 0em;
+   margin-top: 3em;
+padding-right: 0em;
 }
 
 div#wr_navigation {
