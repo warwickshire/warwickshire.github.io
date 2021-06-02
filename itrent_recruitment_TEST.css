@@ -627,6 +627,11 @@ div#wr_navigation div#fixednavigation {
 }
 
 /* Page width issues fixes */
+#wr_outer {
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
 @media only screen and (max-width: 600px){
 div#wr_outer {
     margin-top: 60px;
