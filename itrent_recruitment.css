@@ -18,9 +18,9 @@ h2 {
 
 input.standard_bu, .standard_bu, .standard_bu.res_standard_bu {
 	background-image: none !important;
-	background-color: #1E8844 !important;
-	background: #1E8844 !important;
-	border: 2px solid #1E8844 !important;
+	background-color: #096f48 !important;
+	background: #096f48 !important;
+	border: 2px solid #096f48 !important;
 	padding: 8px !important;
 	padding-left: 20px !important;
 	padding-right: 20px !important;
@@ -440,7 +440,7 @@ div#wr_footer {
 }
 
 table.page_header td.theader.page_title {
-	background-color: #1E8844;
+    background-color: #096f48!important;
 }
 
 div#entity table.sect_header tbody tr td.theader {
