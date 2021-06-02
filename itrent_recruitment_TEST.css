@@ -532,7 +532,7 @@ div#wr_navigation {
 }
 
 .use-hamburger #fixednavigation ul {
-    background: #275b8d;
+    background: #275b8d00;
 }
 div#wr_navigation {
     background: #0f4880!important;
@@ -607,6 +607,18 @@ div#fixednavigation {
     background: #0f4880!important;
 }
 
+a.job-search-link.outer {
+    display: none!important;
+}
+
+li.li1.job-search-link {
+    display: flex!important;
+}
+
+ul#menu li.li1 {
+    margin-right: 0em;
+}
+
 @media only screen and (max-width: 600px){
 div#wr_navigation div#fixednavigation {
     padding-top: 0px;
@@ -620,6 +632,13 @@ div#wr_outer {
     margin-top: 60px;
     margin-left: 0px;
     max-width: 100%;
+}
+}
+
+@media (max-width:960px) {
+#wr_outer {
+padding-left: 3%;
+padding-right:3%;
 }
 }
 
