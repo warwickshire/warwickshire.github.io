@@ -67,6 +67,7 @@ div#wr_outer {
     margin-top: 80px;
     margin-left: 8.33333%;
     max-width: 84.33333333%;
+     margin-top: 2em;
 }
 
 tr td.theader.page_title {
@@ -638,6 +639,7 @@ div#wr_outer {
     margin-top: 60px;
     margin-left: 0px;
     max-width: 100%;
+	margin-top: 2em;
 }
 }
 
