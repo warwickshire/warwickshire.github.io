@@ -166,8 +166,16 @@ table.sect_header td.label {
 }
 
 ul#menu li.keepopen a {
-	text-decoration: underline;
+/* 	text-decoration: underline; */
 	font-size: 1em;
+}
+
+li#log-out-list-item {
+    background: #0f4880!important;
+}
+
+li.keepopen {
+    font-size: initial;
 }
 
 table.page_header tbody tr.wr_usertext td {
