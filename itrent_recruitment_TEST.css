@@ -481,7 +481,7 @@ tr.wr_user_row td.breadcrumbs span.lnk {
 }
 
 table.wr_stackable_buttons tbody tr td {
-	display: table-cell
+/* 	display: table-cell */
 }
 
 table.sect_header tr {
