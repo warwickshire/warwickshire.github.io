@@ -657,3 +657,9 @@ table, tbody, tr, td {
     display: revert;
 }
 }
+
+@media only screen and (max-width: 960px){
+table, tbody, tr, td {
+    display: block;
+	}
+}
