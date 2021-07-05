@@ -550,6 +550,7 @@ table, tbody, tr, td {
 @media only screen and (max-width: 600px){
 table, tbody, tr, td {
     display: block;
+    display: inline-block;
 }
 }
 
