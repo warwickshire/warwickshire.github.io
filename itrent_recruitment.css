@@ -551,6 +551,7 @@ table, tbody, tr, td {
 table, tbody, tr, td {
     display: block;
 /*     display: inline-block; */
+	display: inline-grid;
 }
 }
 
