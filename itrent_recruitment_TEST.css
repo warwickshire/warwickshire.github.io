@@ -662,13 +662,13 @@ padding-right:3%;
 
 @media only screen and (max-width: 600px){
 table, tbody, tr, td {
-/*     display: revert; */
+    display: revert;
 }
 }
 
 @media only screen and (max-width: 960px){
 table, tbody, tr, td {
-    display: block;
+/*     display: block; */
 	}
 }
 
