@@ -689,9 +689,13 @@ i.material-icons.attach_file {
 }
 
 i.material-icons.error_outline {
-    color: red;
+    color: #ff0000;
 }
 
 i.material-icons {
     color: #000;
+}
+
+.mand_large {
+    background: #ff0000;
 }
