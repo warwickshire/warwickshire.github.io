@@ -671,3 +671,27 @@ table, tbody, tr, td {
     display: block;
 	}
 }
+
+i.material-icons.mi-search {
+    color: #fff;
+}
+
+i.material-icons.help {
+    color: #096f48;
+}
+
+i.material-icons.check {
+    color: #096f48;
+}
+
+i.material-icons.attach_file {
+    color: #096f48;
+}
+
+i.material-icons.error_outline {
+    color: red;
+}
+
+i.material-icons {
+    color: #000;
+}
