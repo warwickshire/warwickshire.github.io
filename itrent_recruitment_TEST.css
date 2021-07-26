@@ -662,7 +662,7 @@ padding-right:3%;
 
 @media only screen and (max-width: 600px){
 table, tbody, tr, td {
-    display: revert;
+/*     display: revert; */
 }
 }
 
@@ -670,6 +670,12 @@ table, tbody, tr, td {
 table, tbody, tr, td {
     display: block;
 	}
+}
+
+@media only screen and (max-width: 960px) {
+td.theader {
+    display: block;
+}
 }
 
 i.material-icons.mi-search {
