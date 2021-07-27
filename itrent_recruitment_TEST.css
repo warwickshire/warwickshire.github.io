@@ -5,7 +5,7 @@
 /* Custom styling for itrent */
 
 td, p, a, div, span :not(.fa), input, tr,  table, h1, h2, h3, h4, h5, h6 {
-	font-family: Nunito !important;
+	font-family: Nunito;
 }
 
 h1 {
