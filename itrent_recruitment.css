@@ -39,6 +39,8 @@ input.standard_bu, .standard_bu, .standard_bu.res_standard_bu {
 	transition: background-color .4s;
 	min-height: auto !important;
 	height: auto !important;
+	width: fit-content;
+	
 }
 
 table.sum_but_tab input.dis {
