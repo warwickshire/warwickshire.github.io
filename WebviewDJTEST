@@ -1,0 +1,19 @@
+.wccgreenbar .container {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 760px) {
+.wccgreenbar {
+    background: #096F48;
+    height: 80px;
+    padding: 0.5em;
+}
+}
+
+
+#fixednavigation ul {
+    display: flex;
+    justify-content: flex-start;
+}
