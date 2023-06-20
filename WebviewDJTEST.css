@@ -45,7 +45,7 @@
 }
 
 .topnav a:hover {
-    text-decoration: underline;
+    border-bottom: 3px solid #ffffff;
 }
 
 .Mhr-jobSearchCriteria {
