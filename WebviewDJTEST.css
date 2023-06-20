@@ -40,6 +40,8 @@ div#wr_navigation {
     max-width: 1280px;
     margin-left: auto;
     margin-right: auto;
+    height: 2em;
+    padding-top: 0.25em;
 }
 
 .topnav ul {
