@@ -57,3 +57,60 @@
 .Mhr-jobSearchCriteria {
     background: #454444eb!important;
 }
+
+div#wr_outer {
+    margin-bottom: 4em;
+}
+
+.footer .container {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.footer {
+    background: #000;
+    padding-top: 2em;
+padding-bottom: 2em;
+}
+
+
+.site-footer__section {
+    width: 33.333%;
+}
+
+.site-footer__section ul.list {
+    column-count: 2;
+    list-style: none;
+}
+
+.footer li.list__item {
+    padding-bottom: 0.85em;
+}
+
+
+.site-footer__section li.list__item a {
+    color: #fff;
+text-decoration:none;
+}
+
+.site-footer__section li.list__item a:hover {
+text-decoration:underline;
+}
+
+.site-footer__section ul.list {
+    column-count: 2;
+    list-style: none;
+    column-gap: 2rem;
+    font-size: 0.85em;
+}
+
+
+.Mhr-poweredBy {
+    background: #000;
+}
+
+p.Mhr-poweredBy--text {
+    color: #fff;
+}
