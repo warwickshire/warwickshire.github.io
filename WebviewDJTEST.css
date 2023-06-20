@@ -43,3 +43,11 @@
     margin-right: 1em;
     text-decoration: none;
 }
+
+.topnav a:hover {
+    text-decoration: underline;
+}
+
+.Mhr-jobSearchCriteria {
+    background: #454444eb!important;
+}
