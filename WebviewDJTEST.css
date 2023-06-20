@@ -46,8 +46,8 @@
 
 .topnav a:hover {
     border-bottom: 3px solid #ffffff;
+    padding-bottom: 0.25em;
 }
-
 .Mhr-jobSearchCriteria {
     background: #454444eb!important;
 }
