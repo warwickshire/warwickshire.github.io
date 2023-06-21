@@ -130,3 +130,11 @@ p.Mhr-poweredBy--text {
 .Mhr-poweredBy-content {
     margin-left: 5em;
 }
+
+/* ////Media queries for mobile//// */
+
+@media screen and (max-width: 768px) {
+.topnav {
+    display: none;
+}
+}
