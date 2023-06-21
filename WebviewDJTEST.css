@@ -4,22 +4,19 @@ body.horizontal {
     font-family: 'Nunito Sans', sans-serif!important;
 }
 
-.skip-to-content-link {
-    background: #000;
-    height: 30px;
-    left: 50%;
-    padding: 8px;
-    position: absolute;
-    transform: translateY(-100%);
-    transition: transform 0.3s;
-    color: #ffff00;
-    padding: 10px;
-    padding-bottom: 25px;
-    font-weight: 400;
+.skip {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
 
-.skip-to-content-link:focus {
-    transform: translateY(0%);
+.skip:focus {
+  position: static;
+  width: auto;
+  height: auto;
 }
 
 div#wr_navigation {
