@@ -190,6 +190,14 @@ button#main-find-jobs:focus {
     color: #096f48;
 }
 
+a.Mhr-speculativeLink.MhrWebRec-Button.MhrWebRec-Button--link:hover {
+    color: #fff;
+}
+
+a.Mhr-speculativeLink.MhrWebRec-Button.MhrWebRec-Button--link:focus {
+    color: #fff;
+}
+
 /* ////Media queries for mobile//// */
 
 @media screen and (max-width: 890px) {
