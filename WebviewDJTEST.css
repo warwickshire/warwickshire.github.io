@@ -148,7 +148,7 @@ p.Mhr-poweredBy--text {
     display: contents;
 }
 .site-footer__section {
-    width: 100%;
+    width: -webkit-fill-available;
     margin-left: 1em;
 }
 .site-footer__section ul.list {
