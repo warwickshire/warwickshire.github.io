@@ -74,6 +74,10 @@ div#wr_outer {
     margin-bottom: 4em;
 }
 
+.pre-footer-images {
+    text-align: center;
+}
+
 .footer .container {
     max-width: 1280px;
     margin-left: auto;
