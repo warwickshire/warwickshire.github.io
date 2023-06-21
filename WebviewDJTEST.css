@@ -40,11 +40,11 @@ div#wr_navigation {
 }
 }
 
-div#fixednavigation {
+/* div#fixednavigation {
     height: 10px;
     font-size: 1em;
     font-weight: 600;
-}
+} */
 
 #fixednavigation ul {
     display: flex;
