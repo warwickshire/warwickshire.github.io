@@ -186,6 +186,10 @@ button#main-find-jobs:hover {
     color: #096f48;
 }
 
+button#main-find-jobs:focus {
+    color: #096f48;
+}
+
 /* ////Media queries for mobile//// */
 
 @media screen and (max-width: 890px) {
