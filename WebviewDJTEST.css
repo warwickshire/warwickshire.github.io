@@ -118,6 +118,9 @@ text-decoration:underline;
     font-size: 0.85em;
 }
 
+.footer img.logo-title {
+    width: 260px;
+}
 
 .Mhr-poweredBy {
     display: none;
