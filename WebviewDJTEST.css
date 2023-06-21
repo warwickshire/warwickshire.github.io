@@ -36,15 +36,17 @@ div#wr_navigation {
 @media screen and (min-width: 760px) {
 .wccgreenbar {
     height: 80px;
-    padding: 0.5em;
+    padding: 0.85em;
 }
 }
 
-/* div#fixednavigation {
+@media screen and (min-width: 1490px) {
+div#fixednavigation {
     height: 10px;
     font-size: 1em;
     font-weight: 600;
-} */
+}
+}
 
 #fixednavigation ul {
     display: flex;
