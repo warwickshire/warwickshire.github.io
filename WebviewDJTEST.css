@@ -84,9 +84,11 @@ div#wr_outer {
 .footer {
     background: #000;
     padding-top: 2em;
-padding-bottom: 2em;
+    padding-bottom: 2em;
+    border-top-style: solid;
+    border-top-width: 1em;
+    border-top-color: #096f48;
 }
-
 
 .site-footer__section {
     width: 33.333%;
