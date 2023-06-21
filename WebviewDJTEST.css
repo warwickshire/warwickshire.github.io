@@ -141,3 +141,16 @@ p.Mhr-poweredBy--text {
     display: none;
 }
 }
+
+@media screen and (max-width: 801px) {
+.footer .container {
+    display: contents;
+}
+.site-footer__section {
+    width: 100%;
+    margin-left: 1em;
+}
+.site-footer__section ul.list {
+    column-count: 1;
+}
+}
