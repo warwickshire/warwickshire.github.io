@@ -164,6 +164,24 @@ p.Mhr-poweredBy--text {
     margin-top: 1em;
 }
 
+/* ////btn styling//// */
+
+a.Mhr-jobProfile--applyBtn.MhrWebRec-Button.MhrWebRec-Button--link:hover {
+    color: #fff;
+}
+
+button#main-find-jobs {
+    color: #fff;
+}
+
+button#main-find-jobs:hover {
+    color: #000;
+}
+
+button#main-find-jobs:hover {
+    color: #096f48;
+}
+
 /* ////Media queries for mobile//// */
 
 @media screen and (max-width: 890px) {
