@@ -19,6 +19,10 @@ body.horizontal {
   height: auto;
 }
 
+.Mhr-jobSearchCriteriaOuter {
+    height: 50vh;
+}
+
 div#wr_navigation {
     font-family: 'Nunito Sans', sans-serif!important;
 }
