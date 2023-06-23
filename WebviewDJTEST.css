@@ -104,6 +104,9 @@ div#wr_outer {
 .pre-footer-images {
     text-align: center;
 }
+.pre-footer-images img {
+    margin: 0.5em;
+}
 
 .footer .container {
     max-width: 1280px;
