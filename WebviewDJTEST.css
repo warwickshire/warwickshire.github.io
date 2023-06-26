@@ -93,6 +93,11 @@ div#fixednavigation {
     border-bottom: 3px solid #ffffff;
     padding-bottom: 0.25em;
 }
+
+.Mhr-jobSearchTitleOuter .Mhr-jobSearchJobTitle--icon {
+    color: #096F48;
+}
+
 .Mhr-jobSearchCriteria {
     background: #454444eb!important;
 }
@@ -192,6 +197,7 @@ a.Mhr-jobProfile--applyBtn.MhrWebRec-Button.MhrWebRec-Button--link:hover {
 
 button#main-find-jobs {
     color: #fff;
+  background-color: #096F48;
 }
 
 button#main-find-jobs:hover {
