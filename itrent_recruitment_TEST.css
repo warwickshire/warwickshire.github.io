@@ -162,6 +162,10 @@ table.sect_header td.label {
     padding-bottom: 20px;
 }
 
+.Mhr-jobSearchTitleOuter .Mhr-jobSearchJobTitle--icon {
+    color: #096F48;
+}
+
 .standard_bu.srch_standard_bu {
 	margin-bottom: 20px;
 }
@@ -195,6 +199,7 @@ table.wr_buttons {
 a.lnk {
 	text-decoration: none;
 	color: #076440;
+	background-color: #096F48;
 }
 
 td.breadcrumbs {
