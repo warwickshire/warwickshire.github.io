@@ -205,7 +205,8 @@ button#main-find-jobs:hover {
 }
 
 button#main-find-jobs:hover {
-    color: #096f48;
+    color: #ffffff;
+    background-color: #06915c;
 }
 
 button#main-find-jobs:focus {
