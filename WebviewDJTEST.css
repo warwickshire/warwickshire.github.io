@@ -210,7 +210,8 @@ button#main-find-jobs:hover {
 }
 
 button#main-find-jobs:focus {
-    color: #096f48;
+    color: #ffffff;
+    background-color: #06915c;
 }
 
 a.Mhr-speculativeLink.MhrWebRec-Button.MhrWebRec-Button--link:hover {
