@@ -10,7 +10,7 @@
 font-family: 'Yantramanav', sans-serif;*/
 
 div#wr_wrapper {
-    font-family: 'Yantramanav', sans-serif;
+    font-family: 'Yantramanav', sans-serif!important;
 }
 
 div#wr_header {
