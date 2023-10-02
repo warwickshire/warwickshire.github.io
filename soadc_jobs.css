@@ -30,9 +30,13 @@ div#wr_header {
     display: inline-flex;
     color: #fff;
     list-style: none;
-    font-size: 1.25em;
 }
 
 .top-bar ul a {
     color: #fff;
+}
+
+.top-bar ul li a {
+    margin-left: 1em;
+    text-decoration: none;
 }
