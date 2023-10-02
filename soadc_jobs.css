@@ -59,10 +59,13 @@ li.btn {
     margin-left: 1em;
 }
 
-li.btn img {
-    height: 25px;
-}
-
 #menu {
     width: 75%;
+}
+
+li.btn img {
+    height: 25px;
+    /* float: right!important; */
+    /* margin-left: 20px; */
+    margin-left: 40%;
 }
