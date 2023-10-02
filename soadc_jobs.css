@@ -53,6 +53,16 @@ div#wr_header {
     text-decoration: none;
 }
 
+li.btn {
+    display: grid;
+    /* text-align: center; */
+    margin-left: 1em;
+}
+
+li.btn img {
+    height: 25px;
+}
+
 #menu {
     width: 75%;
 }
