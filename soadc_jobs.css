@@ -6,6 +6,12 @@ body {
     font-family: 'Yantramanav', sans-serif;
 }
 
+.fa-solid, .fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+}
+
+
 /*font-family: 'Overpass', sans-serif;
 font-family: 'Yantramanav', sans-serif;*/
 
