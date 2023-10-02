@@ -14,20 +14,20 @@ div#wr_header {
     color: #fff;
 }
 
-.\32 top-bar {
+.top-bar {
     background: #007A77;
 }
 
-.\32 top-bar .container {
+.top-bar .container {
     display: inline-flex;
 }
 
-.\32 top-bar ul {
+.top-bar ul {
     display: inline-flex;
     color: #fff;
     list-style: none;
 }
 
-.\32 top-bar ul a {
+.top-bar ul a {
     color: #fff;
 }
