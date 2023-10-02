@@ -42,3 +42,7 @@ div#wr_header {
     margin-left: 1em;
     text-decoration: none;
 }
+
+#menu {
+    width: 75%;
+}
