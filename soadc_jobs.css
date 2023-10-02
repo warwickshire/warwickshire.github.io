@@ -1,0 +1,25 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,400;1,500;1,600;1,700;1,800;1,900&family=Yantramanav:wght@100;300;400;500;700;900&display=swap');
+</style>
+
+/*font-family: 'Overpass', sans-serif;
+font-family: 'Yantramanav', sans-serif;*/
+
+div#wr_header {
+    background: #007A77;
+    color: #fff;
+}
+
+.\32 top-bar .container {
+    display: inline-flex;
+}
+
+.\32 top-bar ul {
+    display: inline-flex;
+    color: #fff;
+    list-style: none;
+}
+
+.\32 top-bar ul a {
+    color: #fff;
+}
