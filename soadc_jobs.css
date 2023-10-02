@@ -34,6 +34,10 @@ div#wr_header {
     color: #fff;
 }
 
+.top-bar ul li {
+    padding-top: 1.5em;
+}
+
 .top-bar ul li a {
     margin-left: 1em;
     text-decoration: none;
