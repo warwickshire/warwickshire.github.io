@@ -10,6 +10,10 @@ div#wr_header {
     color: #fff;
 }
 
+.\32 top-bar {
+    background: #007A77;
+}
+
 .\32 top-bar .container {
     display: inline-flex;
 }
