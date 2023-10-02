@@ -9,6 +9,10 @@
 /*font-family: 'Overpass', sans-serif;
 font-family: 'Yantramanav', sans-serif;*/
 
+div#wr_wrapper {
+    font-family: 'Yantramanav', sans-serif;
+}
+
 div#wr_header {
     background: #007A77;
     color: #fff;
