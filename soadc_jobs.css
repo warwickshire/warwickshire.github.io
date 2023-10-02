@@ -32,6 +32,7 @@ div#wr_header {
 
 .top-bar .container {
     display: inline-flex;
+    margin-left: 25%;
 }
 
 .top-bar ul {
