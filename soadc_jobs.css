@@ -81,7 +81,7 @@ li.btn img {
 }
 
 .Mhr-jobSearchCriteriaOuter {
-    height: 50vh;
+    min-height: 50vh;
     background-position-y: center;
     background-size: cover;
 }
