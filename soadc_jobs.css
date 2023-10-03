@@ -104,8 +104,12 @@ div#wr_footer .container {
 .footer-links a {
     color: #fff;
     text-decoration: none;
+    font-size: 18px;
 }
 
+.footer-links a:hover {
+    text-decoration: underline;
+}
 
 .footer-links {
     display: inline-flex;
