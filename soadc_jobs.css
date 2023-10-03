@@ -127,6 +127,7 @@ div#wr_footer .container {
 .social-media-links img {
     width: 30px;
     margin-left: 0.5em;
+    border-radius: 5px;
 }
 
 .Mhr-poweredBy--text {
