@@ -86,6 +86,22 @@ li.btn img {
     background-size: cover;
 }
 
+/*btns*/
+
+.MhrWebRec-Button:hover, .MhrWebRec-Button:focus {
+    background-color: #003b3a;
+    color: #fff;
+    text-decoration: none!important;
+}
+
+button#main-find-jobs {
+    background: #fff;
+}
+
+button#main-find-jobs:hover {
+    background-color: #003b3a;
+    color: #fff;
+}
 
 /*footer*/
 
