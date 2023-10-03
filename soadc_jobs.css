@@ -60,8 +60,13 @@ div#wr_header {
 
 li.btn {
     display: grid;
-    /* text-align: center; */
+    padding-bottom: 1em;
     margin-left: 1em;
+    padding-right: 1em;
+}
+
+li.btn:hover {
+    background-color: #006e6c;
 }
 
 #menu {
