@@ -83,7 +83,11 @@ div#wr_footer .container {
     max-width: 1280px;
     margin-left: auto;
     margin-right: auto;
+    /* margin-bottom: 2em; */
+    padding-top: 2em;
+    padding-bottom: 2em;
 }
+
 
 .footer-links ul {
     list-style: none;
@@ -98,4 +102,22 @@ div#wr_footer .container {
 .footer-links a {
     color: #fff;
     text-decoration: none;
+}
+
+
+.footer-links {
+    display: inline-flex;
+}
+
+.social-media-links {
+    float: right;
+}
+
+.social-media-links ul {
+    list-style: none;
+    display: inline-flex;
+}
+
+.social-media-links img {
+    width: 50px;
 }
