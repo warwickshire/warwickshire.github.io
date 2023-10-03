@@ -124,6 +124,12 @@ div#wr_footer .container {
     display: inline-flex;
 }
 
+@media screen and (max-width: 736px) {
+.footer-links ul {
+    display: grid;
+}
+}
+
 .footer-links li {
     display: inline-block;
     padding: 0.5rem;
