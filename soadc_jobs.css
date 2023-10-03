@@ -130,6 +130,11 @@ div#wr_footer .container {
     border-radius: 5px;
 }
 
+.social-media-links img:hover {
+    transition: transform .25s ease-in-out;
+    transform: translateY(-5px);
+}
+
 .Mhr-poweredBy--text {
     color: #fff;
 }
