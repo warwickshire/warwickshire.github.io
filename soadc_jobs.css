@@ -31,14 +31,16 @@ div#wr_header {
 }
 
 .top-bar .container {
-    display: inline-flex;
-    margin-left: 25%;
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .top-bar ul {
     display: inline-flex;
     color: #fff;
     list-style: none;
+    float: right;
 }
 
 .top-bar ul a {
