@@ -86,6 +86,14 @@ li.btn img {
     background-size: cover;
 }
 
+/*burger menu*/
+
+.use-hamburger #fixednavigation ul li a:hover {
+    background: #007a77;
+    color: #fff;
+    text-decoration: none!important;
+}
+
 /*btns*/
 
 .MhrWebRec-Button:hover, .MhrWebRec-Button:focus {
