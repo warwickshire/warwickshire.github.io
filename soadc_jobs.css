@@ -35,6 +35,7 @@ div#wr_header {
     max-width: 1280px;
     margin-left: auto;
     margin-right: auto;
+    padding: 5px;
 }
 
 .top-bar ul {
