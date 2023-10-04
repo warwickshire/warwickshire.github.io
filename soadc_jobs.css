@@ -117,6 +117,15 @@ button#main-find-jobs:hover {
     color: #fff;
 }
 
+button#expanded-find-jobs {
+    background: #fff;
+}
+
+button#expanded-find-jobs:hover {
+    background-color: #003b3a;
+    color: #fff;
+}
+
 /*footer*/
 
 div#wr_footer {
