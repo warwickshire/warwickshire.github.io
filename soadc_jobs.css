@@ -123,6 +123,10 @@ button#main-find-jobs {
     color: #fff;
 }
 
+button#expanded-find-jobs {
+    color: #fff;
+}
+
 button#expanded-find-jobs:hover {
     background-color: #003b3a;
     color: #fff;
