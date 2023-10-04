@@ -109,7 +109,8 @@ li.btn img {
 }
 
 button#main-find-jobs {
-    background: #fff;
+    background: #252525;
+    color: #fff;
 }
 
 button#main-find-jobs:hover {
@@ -117,8 +118,9 @@ button#main-find-jobs:hover {
     color: #fff;
 }
 
-button#expanded-find-jobs {
-    background: #fff;
+button#main-find-jobs {
+    background: #252525;
+    color: #fff;
 }
 
 button#expanded-find-jobs:hover {
