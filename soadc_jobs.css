@@ -45,6 +45,12 @@ div#wr_header {
     float: right;
 }
 
+@media screen and (max-width: 736px) {
+.top-bar ul {
+    display: none;
+}
+}
+
 .top-bar ul a {
     color: #fff;
 }
