@@ -252,11 +252,39 @@ a.Mhr-speculativeLink.MhrWebRec-Button.MhrWebRec-Button--link:focus {
 
 /* ////Media queries for mobile//// */
 
-@media screen and (max-width: 890px) {
+/* @media screen and (max-width: 890px) {
 .topnav {
     display: none;
 }
+} */
+
+@media screen and (max-width: 890px)
+.topnav {
+    /* display: none; */
 }
+
+@media screen and (max-width: 890px){
+.topnav {
+    /* display: none; */
+    overflow-y: clip;
+    height: 14vh;
+}
+
+.topnav ul {
+    /* display: grid; */
+    list-style: none;
+    column-count: 2!important;
+    padding-bottom: 2em;
+}
+
+.topnav ul li {
+    border-right-style: none;
+    margin-right: 1em;
+    margin-bottom: 0.5em;
+}
+}
+
+/* ---  */
 
 @media screen and (max-width: 801px) {
 .footer .container {
