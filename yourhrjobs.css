@@ -87,6 +87,8 @@ div#fixednavigation {
     font-weight: 600;
     margin-right: 1em;
     text-decoration: none;
+  border-right-style: solid;
+    padding-right: 1em;
 }
 
 .topnav a:hover {
