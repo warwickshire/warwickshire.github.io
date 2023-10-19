@@ -33,6 +33,12 @@ div#wr_navigation {
     margin-right: auto;
 }
 
+@media screen and (max-width: 1400px) {
+  .wccgreenbar .container {
+    padding-left: 1em;
+}
+}
+
 .wccgreenbar {
     background: #096F48;
 }
@@ -75,6 +81,12 @@ div#fixednavigation {
     margin-right: auto;
     height: 2em;
     padding-top: 0.25em;
+}
+
+@media screen and (max-width: 1400px) {
+.topnav .container {
+    padding-left: 1.25em;
+}
 }
 
 .topnav ul {
