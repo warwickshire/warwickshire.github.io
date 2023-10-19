@@ -57,7 +57,7 @@ div#fixednavigation {
     justify-content: center;
     margin-left: -125px;
 }
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1400px) {
   #fixednavigation ul {
     margin-left: -30px;
 }
