@@ -267,7 +267,8 @@ a.Mhr-speculativeLink.MhrWebRec-Button.MhrWebRec-Button--link:focus {
 .topnav {
     /* display: none; */
     overflow-y: clip;
-    height: 14vh;
+    height: 18vh;
+    text-transform: capitalize;
 }
 
 .topnav ul {
