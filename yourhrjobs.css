@@ -40,7 +40,10 @@ div#wr_navigation {
 }
 
 .wccgreenbar {
-    background: #096F48;
+    background: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-color: #096F48;
+    border-bottom-width: 5px;
 }
     
 @media screen and (min-width: 760px) {
