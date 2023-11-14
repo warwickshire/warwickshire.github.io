@@ -282,6 +282,7 @@ a.Mhr-speculativeLink.MhrWebRec-Button.MhrWebRec-Button--link:focus {
     list-style: none;
     column-count: 2!important;
     padding-bottom: 2em;
+  text-align: -webkit-left;
 }
 
 .topnav ul li {
