@@ -92,6 +92,15 @@ li.btn img {
     background-size: cover;
 }
 
+/* .Mhr-jobSearchCriteriaOuter {
+    height: 50vh;
+    background: url(https://warwickshire.github.io/SOADC_jobsview_banner_image.jpg);
+    background-position-y: top;
+    background-position-x: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
 /*burger menu*/
 
 .use-hamburger #fixednavigation ul li a:hover {
