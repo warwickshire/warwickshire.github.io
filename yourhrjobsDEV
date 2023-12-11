@@ -1,0 +1,332 @@
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Nunito+Sans:wght@200;300;400;600;700;800;900&family=Roboto+Condensed:wght@300;400;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body.horizontal {
+    font-family: 'Nunito Sans', sans-serif!important;
+}
+
+.skip {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.skip:focus {
+  position: static;
+  width: auto;
+  height: auto;
+}
+
+.Mhr-jobSearchCriteriaOuter {
+    /* height: 50vh; */
+    background: url(https://warwickshire.github.io/Warwick_Castle_header_4.png);
+    background-position-y: top;
+    background-position-x: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div#wr_navigation {
+    font-family: 'Nunito Sans', sans-serif!important;
+}
+
+.wccgreenbar .container {
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (max-width: 1400px) {
+  .wccgreenbar .container {
+    padding-left: 1em;
+}
+}
+
+.wccgreenbar {
+    background: #ffffff;
+    border-bottom-style: solid;
+    border-bottom-color: #096F48;
+    border-bottom-width: 5px;
+}
+    
+@media screen and (min-width: 760px) {
+.wccgreenbar {
+    height: 80px;
+    padding: 0.5em;
+}
+}
+img.logo-title {
+    width: 317px;
+}
+
+@media screen and (min-width: 1490px) {
+div#fixednavigation {
+    height: 10px;
+    font-size: 1em;
+    font-weight: 600;
+}
+}
+
+#fixednavigation ul {
+    display: flex;
+    justify-content: center;
+/*     margin-left: -125px; */
+}
+@media screen and (max-width: 1400px) {
+  #fixednavigation ul {
+    margin-left: -30px;
+}
+}
+
+#fixednavigation ul li {
+    border-right-color: #000;
+    border-right-width: thin;
+    border-right-style: solid;
+}
+
+.topnav .container {
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 2em;
+    padding-top: 0.25em;
+}
+
+@media screen and (max-width: 1400px) {
+.topnav .container {
+    padding-left: 1.25em;
+}
+}
+
+.topnav ul {
+    display: inline-flex;
+    list-style: none;
+}
+
+.topnav ul li {
+    border-right-style: solid;
+    margin-right: 1em;
+}
+
+.topnav ul li:nth-child(4) {
+    border: none;
+}
+
+.topnav {
+    background: #454445;
+    padding: 0.5em;
+    color: #fff;
+}
+
+.topnav a {
+    color: #fff;
+    font-weight: 600;
+    margin-right: 1em;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    border-bottom: 3px solid #ffffff;
+    padding-bottom: 0.25em;
+}
+
+.Mhr-jobSearchTitleOuter .Mhr-jobSearchJobTitle--icon {
+    color: #096F48;
+}
+
+.Mhr-jobSearchCriteria {
+    background: #454444eb!important;
+  margin-top: 10%;
+}
+
+div#wr_outer {
+    margin-bottom: 4em;
+}
+
+table.page_header td.page_title {
+    text-align: left;
+    background-color: #f6f6f6;
+    border-color: #f6f6f6;
+    margin: 0 0 1.5rem;
+    font-size: 2rem;
+    padding: 1em;
+}
+
+table.page_header td.page_title h1 {
+    color: #000;
+}
+
+.pre-footer-images {
+    text-align: center;
+}
+.pre-footer-images img {
+    margin: 0.5em;
+}
+
+.footer .container {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.footer {
+    background: #000;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    border-top-style: solid;
+    border-top-width: 1em;
+    border-top-color: #096f48;
+}
+
+.site-footer__section {
+    width: 33.333%;
+}
+
+.site-footer__section ul.list {
+    column-count: 2;
+    list-style: none;
+}
+
+.footer li.list__item {
+    padding-bottom: 0.85em;
+}
+
+
+.site-footer__section li.list__item a {
+    color: #fff;
+text-decoration:none;
+}
+
+.site-footer__section li.list__item a:hover {
+text-decoration:underline;
+}
+
+.site-footer__section ul.list {
+    column-count: 2;
+    list-style: none;
+    column-gap: 2rem;
+    font-size: 0.85em;
+}
+
+.footer img.logo-title {
+    width: 260px;
+}
+
+.Mhr-poweredBy {
+    display: none;
+}
+
+p.Mhr-poweredBy--text {
+    color: #fff;
+}
+
+.Mhr-poweredBy-content {
+    margin-left: 30%;
+    margin-top: 1em;
+}
+
+/* ////btn styling//// */
+
+a.Mhr-jobProfile--applyBtn.MhrWebRec-Button.MhrWebRec-Button--link:hover {
+    color: #fff;
+}
+
+button#main-find-jobs {
+    color: #fff;
+  background-color: #096F48;
+}
+
+button#main-find-jobs:hover {
+    color: #000;
+}
+
+button#main-find-jobs:hover {
+    color: #ffffff;
+    background-color: #06915c;
+}
+
+button#main-find-jobs:focus {
+    color: #ffffff;
+    background-color: #06915c;
+}
+
+a.Mhr-speculativeLink.MhrWebRec-Button.MhrWebRec-Button--link:hover {
+    color: #fff;
+}
+
+a.Mhr-speculativeLink.MhrWebRec-Button.MhrWebRec-Button--link:focus {
+    color: #fff;
+}
+
+/* ////Media queries for mobile//// */
+
+/* @media screen and (max-width: 890px) {
+.topnav {
+    display: none;
+}
+} */
+
+@media screen and (max-width: 890px)
+.topnav {
+    /* display: none; */
+}
+
+@media screen and (max-width: 890px){
+.topnav {
+    /* display: none; */
+    overflow-y: clip;
+    height: 18vh;
+    text-transform: capitalize;
+}
+
+.topnav ul {
+    display: inline-block;
+    list-style: none;
+    column-count: 2!important;
+    padding-bottom: 2em;
+  text-align: -webkit-left;
+}
+
+.topnav ul li {
+    border-right-style: none;
+    margin-right: 1em;
+    margin-bottom: 0.5em;
+}
+}
+
+/* ---  */
+
+@media screen and (max-width: 801px) {
+.footer .container {
+    display: contents;
+}
+.site-footer__section {
+    width: -webkit-fill-available;
+    margin-left: 1em;
+}
+.site-footer__section ul.list {
+    column-count: 1;
+}
+}
+
+.social_media_row ul {
+    display: inline-flex;
+    list-style: none;
+}
+
+.social_media_row {
+    background: #000;
+}
+
+.social_media_row img {
+    width: 2.5em;
+    margin: 0.25em;
+}
+
+.social_media_row img:hover {
+    transform: scale(1.15);
+    transition: .2s;
+}
