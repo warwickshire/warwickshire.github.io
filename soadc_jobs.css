@@ -86,20 +86,20 @@ li.btn img {
     margin-left: 45%;
 }
 
- .Mhr-jobSearchCriteriaOuter {
+ /*.Mhr-jobSearchCriteriaOuter {
     min-height: 50vh;
     background-position-y: center;
     background-size: cover;
-}
+}*/
 
-/*.Mhr-jobSearchCriteriaOuter {
+.Mhr-jobSearchCriteriaOuter {
     height: 50vh;
     background: url(https://warwickshire.github.io/SOADC_jobsview_banner_image.jpg);
     background-position-y: center;
     background-position-x: center;
     background-size: cover;
     background-repeat: no-repeat;
-}*/
+}
 
 /*burger menu*/
 
