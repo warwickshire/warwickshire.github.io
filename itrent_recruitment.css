@@ -567,6 +567,10 @@ div#fixednavigation {
     display: none;
 }
 
+div#wr_content {
+    display: none;
+}
+
 .important_notice {
     margin-top: 10em;
     text-align: center;
