@@ -560,3 +560,30 @@ table, tbody, tr, td {
 body.s3 {
     overflow-x: hidden;
 }
+
+/* The following styling is to let visitore know that the jobs site has now moved */
+
+div#fixednavigation {
+    display: none;
+}
+
+.important_notice {
+    margin-top: 10em;
+    text-align: center;
+    border-style: solid;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 1em;
+}
+
+.important_notice h2 {
+    font-size: 1.85em;
+    font-weight: 600;
+    color: red;
+    margin-bottom: 1em;
+}
+
+.important_notice a {
+    font-weight: 600;
+    color: #096f48;
+}
