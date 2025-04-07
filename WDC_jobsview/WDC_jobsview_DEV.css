@@ -88,3 +88,14 @@ button#main-find-jobs:focus {
 }
 
 /* end of main section styling */
+
+/* start of footer styling */
+
+.site-footer {
+    background-color: #000;
+    color: #fff;
+    margin-top: 0;
+    padding: 1.6666666667rem 0;
+}
+
+/* end of footer styling */
