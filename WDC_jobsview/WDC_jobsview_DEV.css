@@ -47,3 +47,12 @@ div#job-search-location {
 }
 
 /* end of search styling */
+
+/* start of main section styling */
+
+div#wr_outer {
+    background: #f6eeee;
+    color: #000;
+}
+
+/* end of main section styling */
