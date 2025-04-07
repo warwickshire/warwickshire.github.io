@@ -24,9 +24,3 @@ div#wr_header {
     margin-right: auto;
 }
 
-@media screen and (min-width: 760px) {
-    .wdc_header {
-        height: 80px;
-        padding: 0.5em;
-    }
-}
