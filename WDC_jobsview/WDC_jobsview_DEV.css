@@ -91,6 +91,14 @@ button#main-find-jobs:focus {
 
 /* start of footer styling */
 
+.site-footer .container {
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 115px;
+    padding-top: 18px;
+}
+
 .site-footer {
     background-color: #000;
     color: #fff;
