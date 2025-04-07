@@ -55,8 +55,9 @@ div#wr_outer {
     color: #000;
 }
 
-body .Mhr-customSelectButton-text {
-    overflow: hidden;
-    white-space: nowrap;
+span.Mhr-customSelectLabel-selected {
+    font-weight: 600;
+    color: #000;
 }
+
 /* end of main section styling */
