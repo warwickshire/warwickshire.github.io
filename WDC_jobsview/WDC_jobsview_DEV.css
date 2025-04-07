@@ -55,4 +55,8 @@ div#wr_outer {
     color: #000;
 }
 
+body .Mhr-customSelectButton-text {
+    overflow: hidden;
+    white-space: nowrap;
+}
 /* end of main section styling */
