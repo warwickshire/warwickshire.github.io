@@ -1,38 +1,5 @@
 /*////WDC jobs view DEV////*/
 
-.site-header__inner {
-    background-color: #80276c;
-    color: #fff;
-    position: relative;
-    z-index: 1;
-}
-
-@media screen and (min-width: 960px) {
-    .site-header__inner>.container {
-        padding-bottom: .5555555556rem;
-        padding-top: .5555555556rem;
-    }
-}
-
-@media screen and (min-width: 600px) {
-    .site-header__inner>.container {
-        padding-bottom: .4166666667rem;
-        padding-top: .4166666667rem;
-    }
-}
-
-@media screen and (min-width: 600px) {
-    .site-header__left {
-        width: 32.2033898305%;
-        float: left;
-        margin-right: 1.6949152542%;
-        margin: .8333333333rem 0;
-    }
-}
-
-.site-header__logo {
-    background-size: contain;
-    display: block;
-    height: 4.3333333333rem;
-    width: 7.2222222222rem;
+div#wr_header {
+    background: #80276C;
 }
