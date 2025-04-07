@@ -128,4 +128,13 @@ a.site-footer__link {
     margin-right: 1rem;
 }
 
+.Mhr-poweredBy {
+    background-color: #000000;
+}
+
+.Mhr-poweredBy--text {
+    color: #fff;
+}
+
+
 /* end of footer styling */
