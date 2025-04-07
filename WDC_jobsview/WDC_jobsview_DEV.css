@@ -133,12 +133,16 @@ a.site-footer__link {
 }
 
 .Mhr-poweredBy {
-    background-color: #000000;
+   display:none;
 }
 
 .Mhr-poweredBy--text {
-    color: #fff;
+    display:none;
 }
 
+.mhr-footer img {
+    height: 33px;
+    margin-right: 10px;
+}
 
 /* end of footer styling */
