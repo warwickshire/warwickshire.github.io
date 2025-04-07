@@ -78,14 +78,13 @@ div#wr_outer {
     font-weight: 600;
 }
 
-.Mhr-jobSearchBar .Mhr-jobSearchOrder .Mhr-jobSearchFilter .Mhr-customSelectButton:hover
-background: #6d6d6d;
-}
-
-
 button#main-find-jobs {
     background: #80276c;
     outline: solid;
+}
+
+button#main-find-jobs:hover {
+    background-color: #6d6d6d;
 }
 
 button#main-find-jobs:focus {
