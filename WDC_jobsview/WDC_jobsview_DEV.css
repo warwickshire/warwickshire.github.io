@@ -1,4 +1,18 @@
 /*////WDC jobs view DEV////*/
+.skip {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.skip:focus {
+  position: static;
+  width: auto;
+  height: auto;
+}
 
 div#wr_header {
     background: #80276C;
