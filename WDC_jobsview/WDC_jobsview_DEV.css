@@ -3,3 +3,23 @@
 div#wr_header {
     background: #80276C;
 }
+
+.wdc_header .container {
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 760px) {
+    .wdc_header {
+        height: 80px;
+        padding: 0.5em;
+    }
+}
+
+@media screen and (min-width: 760px) {
+    .wdc_headerr {
+        height: 80px;
+        padding: 0.5em;
+    }
+}
