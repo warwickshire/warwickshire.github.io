@@ -115,7 +115,7 @@ p.site-footer__rights {
     margin: 0;
 }
 
-ul.list.list--inline a {
+nav.site-footer__links ul.list.list--inline a {
     color: #fff;
 }
 
