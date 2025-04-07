@@ -108,6 +108,7 @@ button#main-find-jobs:focus {
     color: #fff;
     margin-top: 0;
     padding: 1.6666666667rem 0;
+    height: 200px;
 }
 
 p.site-footer__rights {
@@ -140,6 +141,9 @@ a.site-footer__link {
     display:none;
 }
 
+.mhr-footer {
+    padding: 25px;
+    
 .mhr-footer img {
     height: 33px;
     margin-right: 10px;
