@@ -103,5 +103,12 @@ button#main-find-jobs:focus {
     margin: 0;
 }
 
+ul.list.list--inline a {
+    color: #fff;
+}
 
+ul.list.list--inline {
+    display: inline-flex;
+    list-style: none;
+}
 /* end of footer styling */
