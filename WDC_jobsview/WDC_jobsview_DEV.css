@@ -98,4 +98,10 @@ button#main-find-jobs:focus {
     padding: 1.6666666667rem 0;
 }
 
+.site-footer__rights {
+    font-weight: 700;
+    margin: 0;
+}
+
+
 /* end of footer styling */
