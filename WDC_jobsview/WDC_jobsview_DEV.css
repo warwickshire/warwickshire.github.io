@@ -35,6 +35,7 @@ div#wr_header {
 
 .Mhr-jobSearchCriteriaOuter {
     height: 50vh;
+    background-position-y: center;
 }
 
 /*end of header image styling*/
