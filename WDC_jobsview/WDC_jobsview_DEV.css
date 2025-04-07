@@ -1,11 +1,18 @@
 /*////WDC jobs view DEV////*/
 
+/* start of fonts styling */
+
 @import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
 
+body {
+    font-family: "Droid Sans", sans-serif;
+}
+
+/* end of fonts styling */
 
 /*start of header styling*/
 
