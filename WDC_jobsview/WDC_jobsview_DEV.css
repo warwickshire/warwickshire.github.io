@@ -63,6 +63,10 @@ div#wr_outer {
 button#main-find-jobs {
     background: #80276c;
     outline: solid;
-    outline-color: #000;
 }
+
+button#main-find-jobs:focus {
+    background-color: #6d6d6d;
+}
+
 /* end of main section styling */
