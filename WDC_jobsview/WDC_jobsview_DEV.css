@@ -39,3 +39,11 @@ div#wr_header {
 }
 
 /*end of header image styling*/
+
+/* start of search styling */
+
+div#job-search-location {
+    background: #fff;
+}
+
+/* end of search styling */
