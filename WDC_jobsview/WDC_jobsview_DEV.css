@@ -55,9 +55,9 @@ div#wr_outer {
     color: #000;
 }
 
-span.Mhr-customSelectLabel-selected {
+.Mhr-jobSearchBar .Mhr-jobSearchOrder .Mhr-jobSearchFilter .Mhr-customSelectButton {
+    color: #000000;
     font-weight: 600;
-    color: #000;
 }
 
 /* end of main section styling */
