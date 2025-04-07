@@ -34,7 +34,6 @@ div#wr_header {
 /*start of header image styling*/
 
 .Mhr-jobSearchCriteriaOuter {
-    background-image: var(--mhr-webrec-banner-image);
     height: 50vh;
 }
 
