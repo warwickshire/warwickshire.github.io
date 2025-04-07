@@ -1,4 +1,7 @@
 /*////WDC jobs view DEV////*/
+
+/*start of header styling*/
+
 .skip {
   position: absolute;
   left: -10000px;
@@ -26,3 +29,13 @@ div#wr_header {
     padding-top: 18px;
 }
 
+/*end of header styling*/
+
+/*start of header image styling*/
+
+.Mhr-jobSearchCriteriaOuter {
+    background-image: var(--mhr-webrec-banner-image);
+    height: 50vh;
+}
+
+/*end of header image styling*/
