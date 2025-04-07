@@ -1,5 +1,12 @@
 /*////WDC jobs view DEV////*/
 
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+
 /*start of header styling*/
 
 .skip {
