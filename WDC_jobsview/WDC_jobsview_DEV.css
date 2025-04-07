@@ -106,6 +106,10 @@ button#main-find-jobs:focus {
     padding: 1.6666666667rem 0;
 }
 
+p.site-footer__rights {
+    margin-bottom: 1em;
+}
+
 .site-footer__rights {
     font-weight: 700;
     margin: 0;
