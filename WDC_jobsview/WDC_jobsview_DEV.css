@@ -60,4 +60,9 @@ div#wr_outer {
     font-weight: 600;
 }
 
+button#main-find-jobs {
+    background: #80276c;
+    outline: solid;
+    outline-color: #000;
+}
 /* end of main section styling */
