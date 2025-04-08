@@ -83,6 +83,12 @@ div#job-search-location {
     background: #fff;
 }
 
+@media screen and (max-width: 570px) {
+.Mhr-jobSearchCriteriaOuter {
+    height: 60vh;
+}
+}
+    
 /* end of search styling */
 
 /* start of main section styling */
