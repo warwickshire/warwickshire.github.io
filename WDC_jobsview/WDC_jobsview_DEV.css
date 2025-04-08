@@ -22,9 +22,34 @@ body {
 
 /* end of fonts styling */
 
+/* start of skip links styling */
+
+a.wr_skip_link:focus, a.wr_skip_link:active, a.wr_skip_link:hover {
+    left: 3px;
+    top: 3px;
+    background-color: #fff;
+    z-index: 9999;
+    background-color: #323030;
+    border-top-color: #323030;
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5em;
+}
+
+
+a.wr_skip_link:before {
+    content: ">";
+    font-weight: 800;
+    float: inline-end;
+}
+
+
+/* end of skip links styling */
+
+
 /*start of header styling*/
 
-.skip {
+/* .skip {
   position: absolute;
   left: -10000px;
   top: auto;
@@ -37,7 +62,7 @@ body {
   position: static;
   width: auto;
   height: auto;
-}
+} */
 
 div#wr_header {
     background: #80276C;
