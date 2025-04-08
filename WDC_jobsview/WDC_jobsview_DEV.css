@@ -47,6 +47,13 @@ div#wr_header {
     padding-top: 18px;
 }
 
+@media screen and (max-width: 1542px) {
+.wdc_header .container {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+}
+
 /*end of header styling*/
 
 /*start of header image styling*/
@@ -150,4 +157,10 @@ a.site-footer__link {
     margin-right: 10px;
 }
 
+@media screen and (max-width: 1542px) {
+.site-footer .container {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+}
 /* end of footer styling */
