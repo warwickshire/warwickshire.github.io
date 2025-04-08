@@ -91,7 +91,7 @@ div#job-search-location {
 
 @media screen and (max-width: 450px) {
     .Mhr-jobSearchCriteriaOuter {
-        height: 101vh;
+        height: 80vh;
         /* padding-top: 0; */
         /* margin-top: 1em; */
         background-position-y: top;
