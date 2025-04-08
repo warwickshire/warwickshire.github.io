@@ -58,6 +58,14 @@ div#wr_header {
 }
 }
 
+/* start of navigation bar styling */
+
+#fixednavigation ul {
+    justify-content: center;
+}
+
+/* end of navigation bar styling */
+
 /*end of header styling*/
 
 /*start of header image styling*/
