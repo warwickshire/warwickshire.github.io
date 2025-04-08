@@ -90,15 +90,6 @@ div#job-search-location {
 } */
 
 
-/* @media screen and (max-width: 570px) {
-    .Mhr-jobSearchCriteriaOuter {
-        height: 60vh;
-        padding-top: 0;
-        /* margin-top: 1em; */
-        background-position-y: top;
-        /* margin-bottom: 5em; */
-    }
-} */
 
 @media screen and (max-width: 450px) {
     .Mhr-jobSearchCriteriaOuter {
