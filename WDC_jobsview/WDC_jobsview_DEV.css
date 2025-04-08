@@ -135,6 +135,10 @@ nav.site-footer__links ul.list.list--inline a {
     color: #fff;
 }
 
+nav.site-footer__links ul.list.list--inline a:hover {
+    text-decoration: none;
+}
+
 ul.list.list--inline {
     display: inline-flex;
     list-style: none;
