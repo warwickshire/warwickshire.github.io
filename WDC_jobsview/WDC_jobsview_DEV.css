@@ -12,6 +12,10 @@ div#fixednavigation {
     font-family: "Droid Sans", sans-serif;
 }
 
+.Mhr-jobSearchCriteriaTitle, .Mhr-jobSearchCriteriaInfo {
+   font-family: "Droid Sans", sans-serif;
+} 
+
 body {
     font-family: "Droid Sans", sans-serif;
 }
