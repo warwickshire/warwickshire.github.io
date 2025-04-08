@@ -37,7 +37,11 @@ a.wr_skip_link:focus, a.wr_skip_link:active, a.wr_skip_link:hover {
     border-top-color: #323030;
     color: #fff;
     text-decoration: none;
-    padding: 0.5em;
+    padding: 1em;
+    top: 10px;
+    left: 10px;
+    outline: 2px solid #003efa;
+    outline-offset: 2px;
 }
 
 
