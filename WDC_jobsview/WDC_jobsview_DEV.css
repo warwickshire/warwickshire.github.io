@@ -89,17 +89,6 @@ div#job-search-location {
 }
 }
 
-
-@media screen and (max-width: 590px) {
-    .Mhr-jobSearchCriteriaOuter {
-     background-size: 360% auto;
-    height: 60vh;
-    background-position-y: center;
-    margin-bottom: 1em;
-
-    }
-}
-
 /* end of search styling */
 
 /* start of main section styling */
