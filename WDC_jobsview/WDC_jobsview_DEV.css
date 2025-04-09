@@ -175,6 +175,19 @@ button#main-find-jobs:focus {
     background-color: #6d6d6d;
 }
 
+button#expanded-find-jobs {
+    background: #80276c;
+    outline: solid;
+}
+
+button#expanded-find-jobs:hover {
+background-color: #6d6d6d;
+}
+button#expanded-find-jobs:focus {
+    background-color: #6d6d6d;
+}
+
+
 /* end of main section styling */
 
 /* start of footer styling */
