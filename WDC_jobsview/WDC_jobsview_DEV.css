@@ -231,4 +231,18 @@ a.site-footer__link {
     margin-left: 10px;
 }
 }
+
+
+@media screen and (max-width: 570px) {
+ul.list.list--inline {
+    display: block;
+}
+li.list__item {
+    margin-bottom: 8px;
+}
+.site-footer {
+     height: 250px;
+}
+}
+
 /* end of footer styling */
