@@ -243,6 +243,12 @@ li.list__item {
 .site-footer {
      height: 250px;
 }
+    #wr_footer {
+    background: #000;
+    height: 300px;
+    margin-top: 50px;
 }
+}
+
 
 /* end of footer styling */
