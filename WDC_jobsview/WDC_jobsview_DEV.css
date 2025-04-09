@@ -7,19 +7,15 @@
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
-
 div#fixednavigation {
     font-family: "Droid Sans", sans-serif;
 }
-
 .Mhr-jobSearchCriteriaTitle, .Mhr-jobSearchCriteriaInfo {
    font-family: "Droid Sans", sans-serif;
 } 
-
 body {
     font-family: "Droid Sans", sans-serif;
 }
-
 td {
     font-family: "Droid Sans", sans-serif;
 }
@@ -27,6 +23,12 @@ td.label {
     font-family: "Droid Sans", sans-serif;
 }
 input#BU_LOGIN\.FRM_BUTTON\.ET_BASE\.1-1-1-1 {
+    font-family: "Droid Sans", sans-serif;
+}
+p {
+    font-family: "Droid Sans", sans-serif;
+}
+body[page-name=applicationSummary] .application-pages-list li a {
     font-family: "Droid Sans", sans-serif;
 }
 
