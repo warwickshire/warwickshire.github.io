@@ -69,21 +69,6 @@ a.wr_skip_link:before {
 
 /*start of header styling*/
 
-/* .skip {
-  position: absolute;
-  left: -10000px;
-  top: auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-}
-
-.skip:focus {
-  position: static;
-  width: auto;
-  height: auto;
-} */
-
 div#wr_header {
     background: #80276C;
 }
@@ -130,19 +115,9 @@ div#job-search-location {
     background: #fff;
 }
 
-/* @media screen and (max-width: 870px) {
-.Mhr-jobSearchCriteriaOuter {
-    height: 60vh;
-}
-} */
-
 @media screen and (max-width: 450px) {
     .Mhr-jobSearchCriteriaOuter {
-/*         height: 80vh; */
-        /* padding-top: 0; */
-        /* margin-top: 1em; */
         background-position-y: top;
-        /* margin-bottom: 5em; */
         background-size: 310% auto;
     }
 }
