@@ -20,6 +20,16 @@ body {
     font-family: "Droid Sans", sans-serif;
 }
 
+td {
+    font-family: "Droid Sans", sans-serif;
+}
+td.label {
+    font-family: "Droid Sans", sans-serif;
+}
+input#BU_LOGIN\.FRM_BUTTON\.ET_BASE\.1-1-1-1 {
+    font-family: "Droid Sans", sans-serif;
+}
+
 /* end of fonts styling */
 
 /* start of skip links styling */
