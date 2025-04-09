@@ -115,9 +115,11 @@ div#wr_header {
 
 /*start of header image styling*/
 
+@media screen and (min-width: 571px) {
 .Mhr-jobSearchCriteriaOuter {
-/*     height: 50vh; */
+    height: 50vh;
     background-position-y: center;
+}
 }
 
 /*end of header image styling*/
