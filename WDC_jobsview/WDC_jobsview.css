@@ -1,1 +1,256 @@
 /*////WDC jobs view LIVE////*/
+
+/* start of fonts styling */
+
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+div#fixednavigation {
+    font-family: "Droid Sans", sans-serif;
+}
+.Mhr-jobSearchCriteriaTitle, .Mhr-jobSearchCriteriaInfo {
+   font-family: "Droid Sans", sans-serif;
+} 
+body {
+    font-family: "Droid Sans", sans-serif;
+}
+td {
+    font-family: "Droid Sans", sans-serif;
+}
+td.label {
+    font-family: "Droid Sans", sans-serif;
+}
+input#BU_LOGIN\.FRM_BUTTON\.ET_BASE\.1-1-1-1 {
+    font-family: "Droid Sans", sans-serif;
+}
+p {
+    font-family: "Droid Sans", sans-serif;
+}
+body[page-name=applicationSummary] .application-pages-list li a {
+    font-family: "Droid Sans", sans-serif;
+}
+
+/* end of fonts styling */
+
+/* start of skip links styling */
+
+.skip {
+    display: none;
+}
+
+a.wr_skip_link:focus, a.wr_skip_link:active, a.wr_skip_link:hover {
+    left: 3px;
+    top: 3px;
+    background-color: #fff;
+    z-index: 9999;
+    background-color: #323030;
+    border-top-color: #323030;
+    color: #fff;
+    text-decoration: none;
+    padding: 1em;
+    top: 10px;
+    left: 10px;
+    outline: 2px solid #003efa;
+    outline-offset: 2px;
+}
+
+
+a.wr_skip_link:before {
+    content: ">";
+    font-weight: 800;
+    float: inline-end;
+}
+
+
+/* end of skip links styling */
+
+
+/*start of header styling*/
+
+div#wr_header {
+    background: #80276C;
+}
+
+.wdc_header .container {
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 115px;
+    padding-top: 18px;
+}
+
+@media screen and (max-width: 1542px) {
+.wdc_header .container {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+}
+
+/* start of navigation bar styling */
+
+#fixednavigation ul {
+    justify-content: center;
+}
+
+/* end of navigation bar styling */
+
+/*end of header styling*/
+
+/*start of header image styling*/
+
+@media screen and (min-width: 870px) {
+.Mhr-jobSearchCriteriaOuter {
+    height: 50vh;
+    background-position-y: center;
+}
+}
+
+/*end of header image styling*/
+
+/* start of search styling */
+
+div#job-search-location {
+    background: #fff;
+}
+
+@media screen and (max-width: 450px) {
+    .Mhr-jobSearchCriteriaOuter {
+        background-position-y: top;
+        background-size: 310% auto;
+    }
+}
+
+
+/* end of search styling */
+
+/* start of main section styling */
+
+div#wr_outer {
+    background: #f6eeee;
+    color: #000;
+}
+
+.Mhr-jobSearchBar .Mhr-jobSearchOrder .Mhr-jobSearchFilter .Mhr-customSelectButton {
+    color: #000000;
+    font-weight: 600;
+}
+
+button#main-find-jobs {
+    background: #80276c;
+    outline: solid;
+}
+
+button#main-find-jobs:hover {
+    background-color: #6d6d6d;
+}
+
+button#main-find-jobs:focus {
+    background-color: #6d6d6d;
+}
+
+button#expanded-find-jobs {
+    background: #80276c;
+    outline: solid;
+}
+
+button#expanded-find-jobs:hover {
+background-color: #6d6d6d;
+}
+button#expanded-find-jobs:focus {
+    background-color: #6d6d6d;
+}
+
+
+/* end of main section styling */
+
+/* start of footer styling */
+
+.site-footer .container {
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 115px;
+    padding-top: 18px;
+}
+
+.site-footer {
+    background-color: #000;
+    color: #fff;
+    margin-top: 0;
+    padding: 1.6666666667rem 0;
+    height: 200px;
+}
+
+p.site-footer__rights {
+    margin-bottom: 1em;
+}
+
+.site-footer__rights {
+    font-weight: 700;
+    margin: 0;
+}
+
+nav.site-footer__links ul.list.list--inline a {
+    color: #fff;
+}
+
+nav.site-footer__links ul.list.list--inline a:hover {
+    text-decoration: none;
+}
+
+ul.list.list--inline {
+    display: inline-flex;
+    list-style: none;
+}
+
+a.site-footer__link {
+    margin-right: 1rem;
+}
+
+.Mhr-poweredBy {
+   display:none;
+}
+
+.Mhr-poweredBy--text {
+    display:none;
+}
+
+.mhr-footer {
+    padding: 25px;
+    text-align: right;
+}
+    
+.mhr-footer img {
+    height: 35px;
+    margin-right: 10px;
+}
+
+@media screen and (max-width: 1542px) {
+.site-footer .container {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+}
+
+
+@media screen and (max-width: 570px) {
+ul.list.list--inline {
+    display: block;
+}
+li.list__item {
+    margin-bottom: 8px;
+}
+.site-footer {
+     height: 250px;
+}
+    #wr_footer {
+    background: #000;
+    height: 300px;
+    margin-top: 50px;
+}
+}
+
+
+/* end of footer styling */
