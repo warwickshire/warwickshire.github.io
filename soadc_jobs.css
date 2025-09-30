@@ -93,7 +93,7 @@ li.btn img {
 }*/
 
 .Mhr-jobSearchCriteriaOuter {
-    height: 50vh;
+    min-height: 50vh;
     background: url(https://warwickshire.github.io/SOADC_jobsview_banner_image.jpg);
     background-position-y: center;
     background-position-x: center;
@@ -215,3 +215,4 @@ div#wr_footer .container {
 .Mhr-poweredBy {
     background-color: #252525;
 }
+
